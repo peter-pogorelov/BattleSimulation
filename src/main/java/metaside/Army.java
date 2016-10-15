@@ -13,8 +13,8 @@ import java.util.Random;
 
 //Reflective class, to lazy to implement normal ones.
 public class Army {
-    public static final int UNITNUMBER_MAX = 300;
-    public static final int UNITNUMBER_MIN = 50;
+    public static final int UNITNUMBER_MAX = 200;
+    public static final int UNITNUMBER_MIN = 150;
 
     private String armyName;
 
@@ -148,9 +148,16 @@ public class Army {
                 enemy = (MiddleEarthCitizen)oppo.getFirstArmy().get(fe);
             }
 
-            warrior.applyAttack(enemy);
-            if(!enemy.isDead()) {
+            if(enemy instanceof HasBeast) {
                 enemy.applyAttack(warrior);
+                if(!warrior.isDead()) {
+                    warrior.applyAttack(enemy);
+                }
+            } else {
+                warrior.applyAttack(enemy);
+                if (!enemy.isDead()) {
+                    enemy.applyAttack(warrior);
+                }
             }
         }
 

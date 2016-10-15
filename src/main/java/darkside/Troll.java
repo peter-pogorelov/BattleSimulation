@@ -7,6 +7,6 @@ import metaside.MiddleEarthCitizen;
  */
 public class Troll extends MiddleEarthCitizen {
     public Troll() {
-        super(11, 40);
+        super(11, 15);
     }
 }
