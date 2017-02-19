@@ -1,0 +1,6 @@
+c:\users\petr\documents\visual studio 2015\Projects\MiddleEarth\MiddleEarth\bin\Debug\MiddleEarth.exe.config
+c:\users\petr\documents\visual studio 2015\Projects\MiddleEarth\MiddleEarth\obj\Debug\MiddleEarth.csprojResolveAssemblyReference.cache
+c:\users\petr\documents\visual studio 2015\Projects\MiddleEarth\MiddleEarth\bin\Debug\MiddleEarth.exe
+c:\users\petr\documents\visual studio 2015\Projects\MiddleEarth\MiddleEarth\bin\Debug\MiddleEarth.pdb
+c:\users\petr\documents\visual studio 2015\Projects\MiddleEarth\MiddleEarth\obj\Debug\MiddleEarth.exe
+c:\users\petr\documents\visual studio 2015\Projects\MiddleEarth\MiddleEarth\obj\Debug\MiddleEarth.pdb
