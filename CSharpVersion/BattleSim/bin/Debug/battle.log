@@ -1,0 +1,808 @@
+5 armies has been generated.
+-Army name is Army 0
+-Army content is:
+
+--Warrior Warrior Archer Cavalry CavalryArcher Warrior Cavalry 
+--CavalryArcher Warrior Healer Archer Healer Warrior Warrior 
+--Archer Warrior Archer Healer Archer Warrior Warrior 
+--Healer Warrior Warrior Archer Cavalry Archer Healer 
+--AttackingTower Warrior HealingTower CavalryArcher Warrior CavalryArcher Warrior 
+--Warrior Archer Healer Archer Warrior Healer Cavalry 
+--Warrior Archer Warrior Cavalry CavalryArcher Cavalry Healer 
+--Archer 
+-Army name is Army 1
+-Army content is:
+
+--Warrior Archer Warrior Archer Cavalry Warrior Warrior 
+--HealingTower Archer CavalryArcher Archer Warrior Warrior Warrior 
+--Warrior Archer Healer Warrior Cavalry Archer Archer 
+--CavalryArcher Healer Healer AttackingTower Archer Archer Warrior 
+--CavalryArcher Archer Archer HealingTower Warrior Archer Warrior 
+--Warrior Cavalry Warrior CavalryArcher CavalryArcher Warrior Warrior 
+--Warrior Healer Warrior Archer Archer Healer HealingTower 
+--Archer 
+-Army name is Army 2
+-Army content is:
+
+--HealingTower Archer Warrior Warrior Cavalry CavalryArcher Archer 
+--Archer Archer Archer Warrior CavalryArcher Warrior Warrior 
+--Warrior Archer Warrior Archer Archer CavalryArcher Archer 
+--Healer Cavalry Healer Warrior Healer Warrior Cavalry 
+--Warrior HealingTower Cavalry Healer Archer CavalryArcher Archer 
+--Healer Cavalry Warrior Warrior Cavalry Warrior Archer 
+--CavalryArcher Archer CavalryArcher Archer HealingTower Warrior Healer 
+--Archer 
+-Army name is Army 3
+-Army content is:
+
+--Warrior Warrior CavalryArcher CavalryArcher Warrior Warrior Healer 
+--Archer Warrior Warrior Healer Warrior Warrior Cavalry 
+--Archer CavalryArcher Healer CavalryArcher Cavalry Warrior Healer 
+--CavalryArcher Archer Warrior HealingTower Warrior Cavalry CavalryArcher 
+--Healer Archer Healer CavalryArcher Archer Archer Archer 
+--Cavalry Warrior Archer Warrior HealingTower Cavalry HealingTower 
+--Warrior Warrior Cavalry Warrior Warrior Cavalry CavalryArcher 
+--Archer 
+-Army name is Army 4
+-Army content is:
+
+--Warrior Archer CavalryArcher Archer Warrior Warrior Cavalry 
+--Warrior Archer Archer Warrior CavalryArcher Archer CavalryArcher 
+--Archer Archer CavalryArcher Archer Archer CavalryArcher Archer 
+--Healer Archer CavalryArcher Warrior Healer Cavalry Cavalry 
+--Archer Warrior Archer AttackingTower CavalryArcher Cavalry Cavalry 
+--Archer Archer Archer Warrior CavalryArcher Warrior Archer 
+--Archer AttackingTower Archer Archer CavalryArcher Warrior CavalryArcher 
+--Warrior 
+#########################################################################
+############################BATTLE#STARTED###############################
+#########################################################################
+Army 0 is attacking Army 1
+-Units with initiative 6 are attacking
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking HealingTower
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking AttackingTower
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking Cavalry
+--UnitWarrior is attacking Healer
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking Warrior
+-Units with initiative 5 are attacking
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+-Units with initiative 4 are attacking
+--UnitArcher is attacking Warrior
+--UnitArcher is attacking Archer
+--UnitArcher is attacking CavalryArcher
+--UnitArcher is attacking Archer
+--UnitArcher is attacking Healer
+--UnitArcher is attacking Warrior
+--UnitArcher is attacking Healer
+--UnitArcher is attacking Archer
+--UnitArcher is attacking Warrior
+--UnitArcher is attacking Warrior
+--UnitArcher is attacking Archer
+-Units with initiative 3 are attacking
+--UnitCavalry is attacking Warrior
+--UnitCavalry is attacking Archer
+--UnitCavalry is attacking Warrior
+--UnitCavalry is attacking Archer
+--UnitCavalry is attacking Warrior
+--UnitCavalry is attacking Warrior
+-Units with initiative 2 are attacking
+--UnitCavalryArcher is attacking Warrior
+--UnitCavalryArcher is attacking Warrior
+--UnitCavalryArcher is attacking Warrior
+--UnitCavalryArcher is attacking Warrior
+--UnitCavalryArcher is attacking Cavalry
+-Units with initiative 1 are attacking
+--UnitAttackingTower is attacking Warrior
+--UnitHealingTower is healing friendly units.
+Army 1 is alive and want payback
+-Units with initiative 6 are attacking
+--UnitWarrior is attacking CavalryArcher
+--UnitWarrior is attacking CavalryArcher
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking Healer
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking Cavalry
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking Healer
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking Healer
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking Warrior
+-Units with initiative 5 are attacking
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+-Units with initiative 4 are attacking
+--UnitArcher is attacking Cavalry
+--UnitArcher is attacking AttackingTower
+--UnitArcher is attacking Cavalry
+--UnitArcher is attacking Archer
+--UnitArcher is attacking Warrior
+--UnitArcher is attacking Cavalry
+--UnitArcher is attacking Archer
+--UnitArcher is attacking Healer
+--UnitArcher is attacking Warrior
+--UnitArcher is attacking Warrior
+--UnitArcher is attacking Cavalry
+--UnitArcher is attacking Warrior
+--UnitArcher is attacking Cavalry
+--UnitArcher is attacking Healer
+--UnitArcher is attacking Warrior
+-Units with initiative 3 are attacking
+--UnitCavalry is attacking Healer
+--UnitCavalry is attacking Warrior
+--UnitCavalry is attacking Warrior
+-Units with initiative 2 are attacking
+--UnitCavalryArcher is attacking Archer
+--UnitCavalryArcher is attacking Warrior
+--UnitCavalryArcher is attacking Archer
+--UnitCavalryArcher is attacking Archer
+--UnitCavalryArcher is attacking Healer
+-Units with initiative 1 are attacking
+--UnitHealingTower is healing friendly units.
+--UnitAttackingTower is attacking Archer
+--UnitHealingTower is healing friendly units.
+--UnitHealingTower is healing friendly units.
+Army 1 is attacking Army 2
+-Units with initiative 6 are attacking
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking CavalryArcher
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking CavalryArcher
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking HealingTower
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking Healer
+--UnitWarrior is attacking Healer
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking Healer
+--UnitWarrior is attacking HealingTower
+--UnitWarrior is attacking Archer
+-Units with initiative 5 are attacking
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+-Units with initiative 4 are attacking
+--UnitArcher is attacking Warrior
+--UnitArcher is attacking Archer
+--UnitArcher is attacking Warrior
+--UnitArcher is attacking Healer
+--UnitArcher is attacking Archer
+--UnitArcher is attacking Healer
+--UnitArcher is attacking Warrior
+--UnitArcher is attacking Warrior
+--UnitArcher is attacking CavalryArcher
+--UnitArcher is attacking CavalryArcher
+--UnitArcher is attacking Archer
+--UnitArcher is attacking Healer
+--UnitArcher is attacking CavalryArcher
+--UnitArcher is attacking CavalryArcher
+--UnitArcher is attacking Archer
+-Units with initiative 3 are attacking
+--UnitCavalry is attacking Warrior
+--UnitCavalry is attacking CavalryArcher
+--UnitCavalry is attacking HealingTower
+-Units with initiative 2 are attacking
+--UnitCavalryArcher is attacking CavalryArcher
+--UnitCavalryArcher is attacking Healer
+--UnitCavalryArcher is attacking Archer
+--UnitCavalryArcher is attacking CavalryArcher
+--UnitCavalryArcher is attacking Healer
+-Units with initiative 1 are attacking
+--UnitHealingTower is healing friendly units.
+--UnitAttackingTower is attacking Warrior
+--UnitHealingTower is healing friendly units.
+--UnitHealingTower is healing friendly units.
+Army 2 is alive and want payback
+-Units with initiative 6 are attacking
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking Cavalry
+--UnitWarrior is attacking Healer
+--UnitWarrior is attacking CavalryArcher
+--UnitWarrior is attacking CavalryArcher
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking Healer
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking CavalryArcher
+--UnitWarrior is attacking CavalryArcher
+--UnitWarrior is attacking Archer
+-Units with initiative 5 are attacking
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+-Units with initiative 4 are attacking
+--UnitArcher is attacking Archer
+--UnitArcher is attacking Archer
+--UnitArcher is attacking CavalryArcher
+--UnitArcher is attacking Warrior
+--UnitArcher is attacking Healer
+--UnitArcher is attacking Warrior
+--UnitArcher is attacking Warrior
+--UnitArcher is attacking Warrior
+--UnitArcher is attacking Healer
+--UnitArcher is attacking HealingTower
+--UnitArcher is attacking CavalryArcher
+--UnitArcher is attacking CavalryArcher
+--UnitArcher is attacking HealingTower
+--UnitArcher is attacking Archer
+--UnitArcher is attacking HealingTower
+-Units with initiative 3 are attacking
+--UnitCavalry is attacking CavalryArcher
+--UnitCavalry is attacking Archer
+--UnitCavalry is attacking Archer
+--UnitCavalry is attacking Warrior
+--UnitCavalry is attacking CavalryArcher
+--UnitCavalry is attacking CavalryArcher
+-Units with initiative 2 are attacking
+--UnitCavalryArcher is attacking HealingTower
+--UnitCavalryArcher is attacking Warrior
+--UnitCavalryArcher is attacking HealingTower
+--UnitCavalryArcher is attacking AttackingTower
+--UnitCavalryArcher is attacking HealingTower
+--UnitCavalryArcher is attacking HealingTower
+-Units with initiative 1 are attacking
+--UnitHealingTower is healing friendly units.
+--UnitHealingTower is healing friendly units.
+--UnitHealingTower is healing friendly units.
+Army 2 is attacking Army 3
+-Units with initiative 6 are attacking
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking Cavalry
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking CavalryArcher
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking CavalryArcher
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking CavalryArcher
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking HealingTower
+--UnitWarrior is attacking Healer
+--UnitWarrior is attacking CavalryArcher
+--UnitWarrior is attacking CavalryArcher
+-Units with initiative 5 are attacking
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+-Units with initiative 4 are attacking
+--UnitArcher is attacking Healer
+--UnitArcher is attacking Warrior
+--UnitArcher is attacking Warrior
+--UnitArcher is attacking Warrior
+--UnitArcher is attacking Healer
+--UnitArcher is attacking Healer
+--UnitArcher is attacking CavalryArcher
+--UnitArcher is attacking Archer
+--UnitArcher is attacking HealingTower
+--UnitArcher is attacking Healer
+--UnitArcher is attacking Warrior
+--UnitArcher is attacking Warrior
+--UnitArcher is attacking CavalryArcher
+--UnitArcher is attacking Warrior
+--UnitArcher is attacking Warrior
+-Units with initiative 3 are attacking
+--UnitCavalry is attacking Warrior
+--UnitCavalry is attacking Cavalry
+--UnitCavalry is attacking Cavalry
+--UnitCavalry is attacking Warrior
+--UnitCavalry is attacking Warrior
+--UnitCavalry is attacking Warrior
+-Units with initiative 2 are attacking
+--UnitCavalryArcher is attacking HealingTower
+--UnitCavalryArcher is attacking Warrior
+--UnitCavalryArcher is attacking Warrior
+--UnitCavalryArcher is attacking Warrior
+--UnitCavalryArcher is attacking Archer
+--UnitCavalryArcher is attacking Archer
+-Units with initiative 1 are attacking
+--UnitHealingTower is healing friendly units.
+--UnitHealingTower is healing friendly units.
+--UnitHealingTower is healing friendly units.
+Army 3 is alive and want payback
+-Units with initiative 6 are attacking
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking Cavalry
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking HealingTower
+--UnitWarrior is attacking HealingTower
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking Cavalry
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking HealingTower
+-Units with initiative 5 are attacking
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+-Units with initiative 4 are attacking
+--UnitArcher is attacking HealingTower
+--UnitArcher is attacking Warrior
+--UnitArcher is attacking Warrior
+--UnitArcher is attacking Cavalry
+--UnitArcher is attacking Archer
+--UnitArcher is attacking HealingTower
+--UnitArcher is attacking CavalryArcher
+--UnitArcher is attacking CavalryArcher
+--UnitArcher is attacking Healer
+-Units with initiative 3 are attacking
+--UnitCavalry is attacking Cavalry
+--UnitCavalry is attacking Archer
+--UnitCavalry is attacking Cavalry
+--UnitCavalry is attacking CavalryArcher
+--UnitCavalry is attacking Archer
+--UnitCavalry is attacking Warrior
+--UnitCavalry is attacking Archer
+-Units with initiative 2 are attacking
+--UnitCavalryArcher is attacking Cavalry
+--UnitCavalryArcher is attacking Warrior
+--UnitCavalryArcher is attacking HealingTower
+--UnitCavalryArcher is attacking Warrior
+--UnitCavalryArcher is attacking Warrior
+--UnitCavalryArcher is attacking Cavalry
+--UnitCavalryArcher is attacking Archer
+--UnitCavalryArcher is attacking Cavalry
+-Units with initiative 1 are attacking
+--UnitHealingTower is healing friendly units.
+--UnitHealingTower is healing friendly units.
+--UnitHealingTower is healing friendly units.
+Army 3 is attacking Army 4
+-Units with initiative 6 are attacking
+--UnitWarrior is attacking AttackingTower
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking CavalryArcher
+--UnitWarrior is attacking CavalryArcher
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking CavalryArcher
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking Cavalry
+--UnitWarrior is attacking Warrior
+-Units with initiative 5 are attacking
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+-Units with initiative 4 are attacking
+--UnitArcher is attacking Archer
+--UnitArcher is attacking Archer
+--UnitArcher is attacking CavalryArcher
+--UnitArcher is attacking CavalryArcher
+--UnitArcher is attacking Archer
+--UnitArcher is attacking Archer
+--UnitArcher is attacking CavalryArcher
+--UnitArcher is attacking Archer
+--UnitArcher is attacking Cavalry
+-Units with initiative 3 are attacking
+--UnitCavalry is attacking Warrior
+--UnitCavalry is attacking Warrior
+--UnitCavalry is attacking Archer
+--UnitCavalry is attacking Archer
+--UnitCavalry is attacking AttackingTower
+--UnitCavalry is attacking CavalryArcher
+--UnitCavalry is attacking Archer
+-Units with initiative 2 are attacking
+--UnitCavalryArcher is attacking Archer
+--UnitCavalryArcher is attacking Archer
+--UnitCavalryArcher is attacking Archer
+--UnitCavalryArcher is attacking AttackingTower
+--UnitCavalryArcher is attacking Archer
+--UnitCavalryArcher is attacking Warrior
+--UnitCavalryArcher is attacking Archer
+--UnitCavalryArcher is attacking Warrior
+-Units with initiative 1 are attacking
+--UnitHealingTower is healing friendly units.
+--UnitHealingTower is healing friendly units.
+--UnitHealingTower is healing friendly units.
+Army 4 is alive and want payback
+-Units with initiative 6 are attacking
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking CavalryArcher
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking Healer
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking Cavalry
+--UnitWarrior is attacking Warrior
+-Units with initiative 5 are attacking
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+-Units with initiative 4 are attacking
+--UnitArcher is attacking CavalryArcher
+--UnitArcher is attacking HealingTower
+--UnitArcher is attacking CavalryArcher
+--UnitArcher is attacking Cavalry
+--UnitArcher is attacking CavalryArcher
+--UnitArcher is attacking Archer
+--UnitArcher is attacking Cavalry
+--UnitArcher is attacking Healer
+--UnitArcher is attacking Archer
+--UnitArcher is attacking Cavalry
+--UnitArcher is attacking Warrior
+--UnitArcher is attacking Warrior
+--UnitArcher is attacking Cavalry
+--UnitArcher is attacking CavalryArcher
+--UnitArcher is attacking Archer
+--UnitArcher is attacking Warrior
+--UnitArcher is attacking Healer
+--UnitArcher is attacking CavalryArcher
+--UnitArcher is attacking Cavalry
+--UnitArcher is attacking CavalryArcher
+-Units with initiative 3 are attacking
+--UnitCavalry is attacking CavalryArcher
+--UnitCavalry is attacking Warrior
+--UnitCavalry is attacking CavalryArcher
+--UnitCavalry is attacking CavalryArcher
+--UnitCavalry is attacking CavalryArcher
+-Units with initiative 2 are attacking
+--UnitCavalryArcher is attacking Cavalry
+--UnitCavalryArcher is attacking Cavalry
+--UnitCavalryArcher is attacking Warrior
+--UnitCavalryArcher is attacking Warrior
+--UnitCavalryArcher is attacking Warrior
+--UnitCavalryArcher is attacking Cavalry
+--UnitCavalryArcher is attacking Cavalry
+--UnitCavalryArcher is attacking CavalryArcher
+--UnitCavalryArcher is attacking Warrior
+--UnitCavalryArcher is attacking HealingTower
+-Units with initiative 1 are attacking
+--UnitAttackingTower is attacking Archer
+--UnitAttackingTower is attacking Archer
+Army 4 is attacking Army 0
+-Units with initiative 6 are attacking
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking Healer
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking CavalryArcher
+--UnitWarrior is attacking CavalryArcher
+-Units with initiative 5 are attacking
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+-Units with initiative 4 are attacking
+--UnitArcher is attacking Cavalry
+--UnitArcher is attacking Archer
+--UnitArcher is attacking Warrior
+--UnitArcher is attacking Warrior
+--UnitArcher is attacking Cavalry
+--UnitArcher is attacking Warrior
+--UnitArcher is attacking Archer
+--UnitArcher is attacking Warrior
+--UnitArcher is attacking Cavalry
+--UnitArcher is attacking CavalryArcher
+--UnitArcher is attacking Cavalry
+--UnitArcher is attacking Cavalry
+--UnitArcher is attacking Healer
+--UnitArcher is attacking Cavalry
+--UnitArcher is attacking Cavalry
+--UnitArcher is attacking Warrior
+--UnitArcher is attacking CavalryArcher
+--UnitArcher is attacking Cavalry
+--UnitArcher is attacking CavalryArcher
+--UnitArcher is attacking CavalryArcher
+-Units with initiative 3 are attacking
+--UnitCavalry is attacking CavalryArcher
+--UnitCavalry is attacking Cavalry
+--UnitCavalry is attacking AttackingTower
+--UnitCavalry is attacking Cavalry
+--UnitCavalry is attacking CavalryArcher
+-Units with initiative 2 are attacking
+--UnitCavalryArcher is attacking Warrior
+--UnitCavalryArcher is attacking Healer
+--UnitCavalryArcher is attacking AttackingTower
+--UnitCavalryArcher is attacking HealingTower
+--UnitCavalryArcher is attacking CavalryArcher
+--UnitCavalryArcher is attacking Cavalry
+--UnitCavalryArcher is attacking CavalryArcher
+--UnitCavalryArcher is attacking Archer
+--UnitCavalryArcher is attacking Cavalry
+--UnitCavalryArcher is attacking AttackingTower
+-Units with initiative 1 are attacking
+--UnitAttackingTower is attacking Warrior
+--UnitAttackingTower is attacking Healer
+Army 0 is alive and want payback
+-Units with initiative 6 are attacking
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking Cavalry
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking CavalryArcher
+--UnitWarrior is attacking CavalryArcher
+--UnitWarrior is attacking CavalryArcher
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking CavalryArcher
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking Cavalry
+--UnitWarrior is attacking Cavalry
+--UnitWarrior is attacking CavalryArcher
+--UnitWarrior is attacking CavalryArcher
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking AttackingTower
+--UnitWarrior is attacking Warrior
+-Units with initiative 5 are attacking
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+-Units with initiative 4 are attacking
+--UnitArcher is attacking CavalryArcher
+--UnitArcher is attacking CavalryArcher
+--UnitArcher is attacking Warrior
+--UnitArcher is attacking CavalryArcher
+--UnitArcher is attacking Cavalry
+--UnitArcher is attacking Cavalry
+--UnitArcher is attacking CavalryArcher
+--UnitArcher is attacking Warrior
+--UnitArcher is attacking AttackingTower
+--UnitArcher is attacking Warrior
+--UnitArcher is attacking Cavalry
+-Units with initiative 3 are attacking
+--UnitCavalry is attacking Archer
+--UnitCavalry is attacking Warrior
+--UnitCavalry is attacking AttackingTower
+--UnitCavalry is attacking Archer
+--UnitCavalry is attacking CavalryArcher
+--UnitCavalry is attacking Warrior
+-Units with initiative 2 are attacking
+--UnitCavalryArcher is attacking Cavalry
+--UnitCavalryArcher is attacking Cavalry
+--UnitCavalryArcher is attacking Warrior
+--UnitCavalryArcher is attacking CavalryArcher
+--UnitCavalryArcher is attacking Cavalry
+-Units with initiative 1 are attacking
+--UnitAttackingTower is attacking Healer
+--UnitHealingTower is healing friendly units.
+Army 0 is attacking Army 1
+-Units with initiative 6 are attacking
+--UnitWarrior is attacking Healer
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking CavalryArcher
+--UnitWarrior is attacking HealingTower
+--UnitWarrior is attacking Healer
+--UnitWarrior is attacking Cavalry
+--UnitWarrior is attacking AttackingTower
+--UnitWarrior is attacking CavalryArcher
+--UnitWarrior is attacking Cavalry
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking Cavalry
+--UnitWarrior is attacking Cavalry
+--UnitWarrior is attacking HealingTower
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking Cavalry
+--UnitWarrior is attacking Cavalry
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking CavalryArcher
+-Units with initiative 5 are attacking
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+-Units with initiative 4 are attacking
+--UnitArcher is attacking HealingTower
+--UnitArcher is attacking AttackingTower
+--UnitArcher is attacking AttackingTower
+--UnitArcher is attacking HealingTower
+--UnitArcher is attacking AttackingTower
+--UnitArcher is attacking AttackingTower
+--UnitArcher is attacking Cavalry
+--UnitArcher is attacking AttackingTower
+--UnitArcher is attacking Cavalry
+--UnitArcher is attacking Warrior
+--UnitArcher is attacking HealingTower
+-Units with initiative 3 are attacking
+--UnitCavalry is attacking HealingTower
+--UnitCavalry is attacking CavalryArcher
+--UnitCavalry is attacking AttackingTower
+Army 1 is dead now and removed from pool
+Army 2 is attacking Army 3
+-Units with initiative 6 are attacking
+--UnitWarrior is attacking Cavalry
+--UnitWarrior is attacking HealingTower
+--UnitWarrior is attacking Cavalry
+--UnitWarrior is attacking HealingTower
+--UnitWarrior is attacking HealingTower
+--UnitWarrior is attacking HealingTower
+--UnitWarrior is attacking HealingTower
+--UnitWarrior is attacking Cavalry
+--UnitWarrior is attacking HealingTower
+--UnitWarrior is attacking HealingTower
+--UnitWarrior is attacking CavalryArcher
+--UnitWarrior is attacking HealingTower
+--UnitWarrior is attacking Cavalry
+--UnitWarrior is attacking Cavalry
+-Units with initiative 5 are attacking
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+-Units with initiative 4 are attacking
+--UnitArcher is attacking HealingTower
+--UnitArcher is attacking Cavalry
+--UnitArcher is attacking Cavalry
+--UnitArcher is attacking HealingTower
+--UnitArcher is attacking Cavalry
+--UnitArcher is attacking CavalryArcher
+--UnitArcher is attacking CavalryArcher
+--UnitArcher is attacking Cavalry
+--UnitArcher is attacking HealingTower
+--UnitArcher is attacking HealingTower
+--UnitArcher is attacking CavalryArcher
+--UnitArcher is attacking Cavalry
+--UnitArcher is attacking Cavalry
+--UnitArcher is attacking HealingTower
+--UnitArcher is attacking HealingTower
+-Units with initiative 3 are attacking
+--UnitCavalry is attacking HealingTower
+--UnitCavalry is attacking HealingTower
+--UnitCavalry is attacking HealingTower
+--UnitCavalry is attacking HealingTower
+Army 3 is dead now and removed from pool
+Army 4 is attacking Army 0
+-Units with initiative 6 are attacking
+--UnitWarrior is attacking HealingTower
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking Cavalry
+--UnitWarrior is attacking Cavalry
+--UnitWarrior is attacking Cavalry
+--UnitWarrior is attacking CavalryArcher
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking Cavalry
+--UnitWarrior is attacking CavalryArcher
+--UnitWarrior is attacking Warrior
+-Units with initiative 5 are attacking
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+-Units with initiative 4 are attacking
+--UnitArcher is attacking Archer
+--UnitArcher is attacking Archer
+--UnitArcher is attacking Warrior
+--UnitArcher is attacking Warrior
+--UnitArcher is attacking HealingTower
+--UnitArcher is attacking CavalryArcher
+--UnitArcher is attacking Warrior
+--UnitArcher is attacking Warrior
+--UnitArcher is attacking Cavalry
+--UnitArcher is attacking Warrior
+--UnitArcher is attacking HealingTower
+--UnitArcher is attacking Cavalry
+--UnitArcher is attacking Cavalry
+--UnitArcher is attacking Cavalry
+--UnitArcher is attacking Warrior
+--UnitArcher is attacking HealingTower
+--UnitArcher is attacking HealingTower
+--UnitArcher is attacking HealingTower
+--UnitArcher is attacking Cavalry
+--UnitArcher is attacking HealingTower
+-Units with initiative 3 are attacking
+Army 0 is dead now and removed from pool
+Army 2 is attacking Army 4
+-Units with initiative 6 are attacking
+--UnitWarrior is attacking CavalryArcher
+--UnitWarrior is attacking Cavalry
+--UnitWarrior is attacking CavalryArcher
+--UnitWarrior is attacking Cavalry
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking AttackingTower
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking Archer
+--UnitWarrior is attacking Cavalry
+--UnitWarrior is attacking CavalryArcher
+--UnitWarrior is attacking CavalryArcher
+--UnitWarrior is attacking CavalryArcher
+--UnitWarrior is attacking Warrior
+--UnitWarrior is attacking Cavalry
+-Units with initiative 5 are attacking
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+--UnitHealer is healing friendly units.
+-Units with initiative 4 are attacking
+--UnitArcher is attacking Warrior
+--UnitArcher is attacking AttackingTower
+--UnitArcher is attacking Archer
+--UnitArcher is attacking Cavalry
+--UnitArcher is attacking Healer
+--UnitArcher is attacking Cavalry
+--UnitArcher is attacking CavalryArcher
+--UnitArcher is attacking CavalryArcher
+--UnitArcher is attacking CavalryArcher
+--UnitArcher is attacking CavalryArcher
+--UnitArcher is attacking CavalryArcher
+--UnitArcher is attacking CavalryArcher
+--UnitArcher is attacking CavalryArcher
+--UnitArcher is attacking AttackingTower
+--UnitArcher is attacking AttackingTower
+-Units with initiative 3 are attacking
+--UnitCavalry is attacking CavalryArcher
+--UnitCavalry is attacking AttackingTower
+--UnitCavalry is attacking AttackingTower
+--UnitCavalry is attacking AttackingTower
+--UnitCavalry is attacking Warrior
+--UnitCavalry is attacking AttackingTower
+-Units with initiative 2 are attacking
+Army 4 is dead now and removed from pool
+Army 2 has won!
